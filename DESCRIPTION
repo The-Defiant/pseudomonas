@@ -2,7 +2,7 @@ Package: pseudomonas
 Title: Add namespace to function calls
 Version: 0.0.0.9000
 Authors@R: 
-    person("Szymon", "Szyszkowski", , "szymonszyszkowski@gmail.com", role = c("aut", "cre")
+    person("Szymon", "Szyszkowski", , "szymonszyszkowski@gmail.com", role = c("aut", "cre"))
 Description: When using older codebase one might want to add the namespace to all function calls.
 License: use_mit_license()
 Encoding: UTF-8
